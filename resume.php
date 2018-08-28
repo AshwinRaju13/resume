@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<title> Resume </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="{{asset('css/frontend_css/style.css')}}">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+</style>
+<body class="ash-light-grey">
+
+<!-- Page Container -->
+<div class="ash-content ash-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="ash-row-padding">
+  
+    <!-- Left Column -->
+    <div class="ash-third">
+    
+      <div class="ash-white ash-text-grey ash-card-4">
+        <div class="ash-display-container">
+        <img src="https://scontent.fmaa6-1.fna.fbcdn.net/v/t1.0-9/1509704_584039801691797_905860227_n.jpg?_nc_cat=0&oh=36c4f50ca070dc978607d786a38f5015&oe=5BF9BA43" style="width:100%" alt="Avatar">
+          <div class="ash-display-bottomleft ash-container ash-text-black">
+            <h2>Ashwin Raju</h2>
+          </div>
+        </div><br>  
+
+        <div class="ash-container">
+          <p><i class="fa fa-briefcase fa-fw ash-margin-right ash-large ash-text-teal"></i>PHP Developer</p>
+          <p><i class="fa fa-home fa-fw ash-margin-right ash-large ash-text-teal"></i>Tamil Nadu, Chennai</p>
+          <p><i class="fa fa-envelope fa-fw ash-margin-right ash-large ash-text-teal"></i>ashwinraju13@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw ash-margin-right ash-large ash-text-teal"></i>9789916906</p>
+          <hr>
+
+          <p class="ash-large"><b><i class="fa fa-asterisk fa-fw ash-margin-right ash-text-teal"></i>Skills</b></p>
+          <p>Laravel</p>
+          <div class="ash-light-grey ash-round-xlarge ash-small">
+            <div class="ash-container ash-center ash-round-xlarge ash-teal" style="width:70%">70%</div>
+          </div>
+          <p>PHP</p>
+          <div class="ash-light-grey ash-round-xlarge ash-small">
+            <div class="ash-container ash-center ash-round-xlarge ash-teal" style="width:50%">
+              <div class="ash-center ash-text-white">50%</div>
+            </div>
+          </div>
+          <p>HTML</p>
+          <div class="ash-light-grey ash-round-xlarge ash-small">
+            <div class="ash-container ash-center ash-round-xlarge ash-teal" style="width:55%">
+              <div class="ash-center ash-text-white">55%</div>
+            </div>
+          </div>
+          <p>CSS</p>
+          <div class="ash-light-grey ash-round-xlarge ash-small">
+            <div class="ash-container ash-center ash-round-xlarge ash-teal" style="width:50%">
+              <div class="ash-center ash-text-white">50%</div>
+            </div>
+          </div>
+          <p>MySQL</p>
+          <div class="ash-light-grey ash-round-xlarge ash-small">
+            <div class="ash-container ash-center ash-round-xlarge ash-teal" style="width:65%">65%</div>
+          </div>
+          <p>Python</p>
+          <div class="ash-light-grey ash-round-xlarge ash-small">
+            <div class="ash-container ash-center ash-round-xlarge ash-teal" style="width:40%">40%</div>
+          </div>
+         <!-- <p>Media</p>
+          <div class="ash-light-grey ash-round-xlarge ash-small">
+            <div class="ash-container ash-center ash-round-xlarge ash-teal" style="width:50%">50%</div>
+          </div> -->
+          <br>
+
+          <p class="ash-large ash-text-theme"><b><i class="fa fa-globe fa-fw ash-margin-right ash-text-teal"></i>Languages</b></p>
+          <p>English</p>
+          <div class="ash-light-grey ash-round-xlarge">
+            <div class="ash-round-xlarge ash-teal" style="height:24px;width:100%"></div>
+          </div>
+          <!--<p>Spanish</p>
+          <div class="ash-light-grey ash-round-xlarge">
+            <div class="ash-round-xlarge ash-teal" style="height:24px;width:55%"></div>
+          </div>
+          <p>German</p>
+          <div class="ash-light-grey ash-round-xlarge">
+            <div class="ash-round-xlarge ash-teal" style="height:24px;width:25%"></div>
+          </div>-->
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="ash-twothird">
+    
+      <div class="ash-container ash-card ash-white ash-margin-bottom">
+        <h2 class="ash-text-grey ash-padding-16"><i class="fa fa-suitcase fa-fw ash-margin-right ash-xxlarge ash-text-teal"></i>Internships</h2>
+        <div class="ash-container">
+          <h5 class="ash-opacity"><b>Theeran & Co - Junior Developer</b></h5>
+          <h6 class="ash-text-teal"><i class="fa fa-calendar fa-fw ash-margin-right"></i>Feb 2018 - July 2018 </h6>
+          <ul>
+            <li>Static website using laravel.</li>
+            <li>Rest API- created for Log-in, Register.</li>
+            <li>Methods</li>
+                <ul>
+                    <li>GET, POST, PUT, DELETE</li>
+                </ul>
+          </ul>
+          <span class="ash-tag ash-teal ash-round">Technologies: PHP, MySQL, HTML, Javascript, CSS.</span>
+          <hr>
+        </div>
+        <div class="ash-container">
+          <h5 class="ash-opacity"><b> Oliviyam- PHP Developer  </b></h5>
+          <h6 class="ash-text-teal"><i class="fa fa-calendar fa-fw ash-margin-right"></i>Nov 2017 - Jan 2018 </h6>
+          <ul>
+            <li>Website Development using Laravel- 5.6.</li>
+            <li>Configured email hosting.</li>
+            <li>OTP verification.</li>
+            <li>Email verification.</li>
+          </ul>
+          <span class="ash-tag ash-teal ash-round">Technologies: PHP, MySQL, HTML, Javascript, CSS.</span>
+          <hr>
+        </div>
+         
+      </div>
+      
+
+      <div class="ash-container ash-card ash-white">
+        <h2 class="ash-text-grey ash-padding-16"><i class="fa fa-cogs fa-fw ash-margin-right ash-xxlarge ash-text-teal"></i>Project</h2>
+        <div class="ash-container">
+           <p>This project is a static website, along with that we have configured email hosting. We have used laravel framework to build this static website. </p>     
+            <a href="http://apextank.com/"><p> ApexTank </p></a>
+        </div>
+      </div>
+
+      <br>
+
+      <div class="ash-container ash-card ash-white">
+        <h2 class="ash-text-grey ash-padding-16"><i class="fa fa-certificate fa-fw ash-margin-right ash-xxlarge ash-text-teal"></i>Education</h2>
+
+        <div class="ash-container">
+          <h5 class="ash-opacity"><b>PSG College of Arts & Science, Coimbatore</b></h5>
+          <h6 class="ash-text-teal"><i class="fa fa-calendar fa-fw ash-margin-right"></i>2015 - 2017</h6>
+          <p>Master of Science in Statistics</p>
+          <hr>
+        </div>
+        <div class="ash-container">
+          <h5 class="ash-opacity"><b>Madras Christian College of Arts & Science, Tambaram</b></h5>
+          <h6 class="ash-text-teal"><i class="fa fa-calendar fa-fw ash-margin-right"></i>2011 - 2014</h6>
+          <p>Bachelor of Science in Statistics</p><br>
+        </div>
+      </div>
+
+        <br>
+        
+      <div class="ash-container ash-card ash-white">
+        <h2 class="ash-text-grey ash-padding-16"><i class="fa fa-thumbs-up fa-fw ash-margin-right ash-xxlarge ash-text-teal"></i>Achievement</h2>
+        <div class="ash-container">
+                
+            <p>Rapidly developed two web applications in four months from requirements gathering to go-live thereby helping the clients get started with marketing their products during holiday season.</p>
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="ash-container ash-teal ash-center ash-margin-top">
+  <p>Find me on social media.</p>
+  <a href="https://www.facebook.com/ashwin.raju.79"><i class="fa fa-facebook-official ash-hover-opacity" ></i></a>
+  <a href="https://www.instagram.com/ashwinraju13/"><i class="fa fa-instagram ash-hover-opacity"></i></a>
+  
+</footer>
+
+</body>
+</html>
